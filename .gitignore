@@ -20,7 +20,7 @@ pickle-email-*.html
 .project
 config/initializers/secret_token.rb
 
-#Java 
+#Java
 *.class
 
 # Package Files #
@@ -31,4 +31,6 @@ config/initializers/secret_token.rb
 java/webapp/WEB-INF/lib/*
 
 php/php_src/lib/*
+
+.DS_Store
 
